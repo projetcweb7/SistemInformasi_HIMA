@@ -73,7 +73,8 @@
             <img src="assets/img/dummies/himkom.jpg" height="100" width="100">
             <h3><span>Himakom</span></h3>
           </div>
-          <div class="sub-heading">	 		<p>merupakan himpunan mahasiswa yang beranggotakan mahasiswa aktif dan alumni yang berasal dari Program Studi Teknik Komputer. HIMAKOM dibentuk untuk membantu setiap anggotanya dalam mengatasi persoalan edukasi dan sosial diluar maupun di dalam kampus. </p><br>
+          <div class="sub-heading">	 		
+            <p>merupakan himpunan mahasiswa yang beranggotakan mahasiswa aktif dan alumni yang berasal dari Program Studi Teknik Komputer. HIMAKOM dibentuk untuk membantu setiap anggotanya dalam mengatasi persoalan edukasi dan sosial diluar maupun di dalam kampus. </p><br>
             <p> <strong>SEJARAH : </strong></p>
             <p>Himpunan mahasiswa Program Studi Teknik Komputer ini berdiri Pada Tahun 2001 yang dibentuk oleh mahasiswa Teknik Komputer.</p>
             <p><strong>VISI : </strong></p>
@@ -84,6 +85,88 @@
             <p>2. Menghasilkan lulusan yang profesional/terampil dan ahli di bidang Teknik Komputer dan Teknologi Informasi, berpikir terbuka (open minded) serta siap bersaing di pasar global berdasarkan kompetensi dunia Industri pada tingkat Nasional maupun Internasional dengan menyediakan sebuah lingkungan belajar yang baik bagi mahasiswa.</p>
             <p>3. Ikut berperan aktif dalam pengembangan asosiasi profesi di bidang komputer dan teknologi informasi yang menunjang kelancaran hubungan institusional dengan masyarakat industri. Mengembangkan dan menerapkan nilai-nilai etika, moral agama dan moral akademis.</p>
             <p>4. Mengembangkan Riset terapan yang terkait dengan bidang komputer dan Teknologi Informasi untuk melayani kebutuhan industri yang meliputi kebutuhan sumber daya manusia, konsultasi teknis dan penelitian.</p>
+                    </div>
+        </div>
+      </div>
+      
+      <div class="row">
+        <div class="span3">
+          <div class="roles">
+          </div>
+        </div>
+        <div class="span3">
+          <img src="assets/img/dummies/prop.jpg"  width="400px" height="400px" alt="" class="img-polaroid" />
+          <div class="roles">
+            <h4>Andrey Lahnan</h4>
+            <h5><strong>Gubernur ITSA</strong></h5>
+          </div>
+        </div>
+        <div class="span3">
+          <img src="assets/img/dummies/fikri1.jpg" height="400px" alt="" class="img-polaroid" />
+          <div class="roles">
+            <h4>Fikri Ramadhan</h4>
+            <h5><strong>Wakil Gubernur ITSA</strong></h5>
+            
+          </div>
+        </div>
+        <div class="span3">
+          <div class="roles">
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- end section about -->
+  <!-- end section contact -->
+
+  <footer>
+    <div class="verybottom">
+      <div class="container">
+        <div class="row">
+          <div class="span12">
+            <div class="aligncenter">
+              <div class="logo">
+                <a class="brand" href="index.html"><img src="assets/img/pcr1.png" alt="" /></a>
+              </div>
+              <p>
+                &copy; AJI Team - All right reserved
+              </p>
+              <div class="credits">
+                <!--
+                  All the links in the footer should remain intact.
+                  You can delete the links only if you purchased the pro version.
+                  Licensing information: https://bootstrapmade.com/license/
+                  Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=Vesperr
+                -->
+                Created by <a href="https://bootstrapmade.com/">BootstrapMade.com</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+  <a href="#" class="scrollup"><i class="icon-chevron-up icon-square icon-48 active"></i></a>
+
+  <!-- Javascript Library Files -->
+  <script src="assets/js/jquery.min.js"></script>
+  <script src="assets/js/jquery.easing.js"></script>
+  <script src="assets/js/bootstrap.js"></script>
+  <script src="assets/js/parallax/jquery.parallax-1.1.3.js"></script>
+  <script src="assets/js/nagging-menu.js"></script>
+  <script src="assets/js/jquery.nav.js"></script>
+  <script src="assets/js/prettyPhoto/jquery.prettyPhoto.js"></script>
+  <script src="assets/js/portfolio/jquery.quicksand.js"></script>
+  <script src="assets/js/portfolio/setting.js"></script>
+  <script src="assets/js/hover/jquery-hover-effect.js"></script>
+  <script src="assets/js/jquery.scrollTo.min.js"></script>
+  <script src="assets/js/animate.js"></script>
+
+  <!-- Contact Form JavaScript File -->
+  <script src="contactform/contactform.js"></script>
+
+  <!-- Template Custom Javascript File -->
+  <script src="assets/js/custom.js"></script>
 
 </body>
 </html>
