@@ -24,9 +24,11 @@
   <link rel="shortcut icon" href="ico/favicon.ico" />
 
   <!-- =======================================================
+    Theme Name: Vesperr
+    Theme URL: https://bootstrapmade.com/vesperr-free-bootstrap-template/
+    Author: BootstrapMade.com
+    Author URL: https://bootstrapmade.com
   ======================================================= -->
-  
-  
 </head>
  <body>
   <header>
