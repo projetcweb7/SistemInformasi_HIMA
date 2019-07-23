@@ -73,7 +73,8 @@
           </div>
           <div class="sub-heading">
             <p>
-               Website ini dibuat untuk memberikan informasi seputaran himpunan-himpunan mahasiswa yang berada dikampus Politeknik Caltex Riau, website ini sangat dibutuh oleh para mahasiswa-mahasiswi PCR. Tujuan dibuatnya website ini adalah untuk memberikan informasi dan edukasi kepada mahasiswa-mahasiswi PCR agar dapat mengetahui tentang sepurana Organisasi disetiap prodi pada Kampus Politeknik Caltex Riau. </p><br>
+               Website ini dibuat untuk memberikan informasi seputaran himpunan-himpunan mahasiswa yang berada dikampus Politeknik Caltex Riau, website ini sangat dibutuh oleh para mahasiswa-mahasiswi PCR. Tujuan dibuatnya website ini adalah untuk memberikan informasi dan edukasi kepada mahasiswa-mahasiswi PCR agar dapat mengetahui tentang sepurana Organisasi disetiap prodi pada Kampus Politeknik Caltex Riau. </p>
+               <p> Website ini dibuat menggunakan Sublime dan kemudian datanya juga dikelola menggunakan Github, agar dalam proses pengerjaan web ini bisa dilakukan secara bersama secara onlie</p><br>
           </div>
         </div>
       </div>
