@@ -105,7 +105,7 @@
           </div>
         </div>
         <div class="span3">
-          <img src="assets/img/dummies/fikri1.jpg" height="400px" alt="" class="img-polaroid" />
+          <img src="assets/img/dummies/himakomWG.jpg" height="400px" alt="" class="img-polaroid" />
           <div class="roles">
             <h4>Yasir</h4>
             <h5><strong>Wakil Gubernur HIMAKOM</strong></h5>
