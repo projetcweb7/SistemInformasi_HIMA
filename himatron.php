@@ -24,10 +24,9 @@
   <link rel="shortcut icon" href="ico/favicon.ico" />
 
   <!-- =======================================================
-    Theme Name: Vesperr
-    Theme URL: https://bootstrapmade.com/vesperr-free-bootstrap-template/
-    Author: BootstrapMade.com
-    Author URL: https://bootstrapmade.com
+    
+
+
   ======================================================= -->
 </head>
  <body>
@@ -73,22 +72,24 @@
       <div class="row">
         <div class="span12">
           <div class="heading">
-            <img src="assets/img/dummies/himkom.jpg" height="100" width="100">
-            <h3><span>Himakom</span></h3>
+            <img src="assets/img/dummies/asa.jpg" height="100" width="100">
+            <h3><span>Himatron</span></h3>
           </div>
-          <div class="sub-heading">	 		
-            <p>merupakan himpunan mahasiswa yang beranggotakan mahasiswa aktif dan alumni yang berasal dari Program Studi Teknik Komputer. HIMAKOM dibentuk untuk membantu setiap anggotanya dalam mengatasi persoalan edukasi dan sosial diluar maupun di dalam kampus. </p><br>
-            <p> <strong>SEJARAH : </strong></p>
-            <p>Himpunan mahasiswa Program Studi Teknik Komputer ini berdiri Pada Tahun 2001 yang dibentuk oleh mahasiswa Teknik Komputer.</p>
+          <div class="sub-heading">
+            <p>HIMATRON (Himpunan Mahasiswa Mekatronika) Politeknik Caltex Riau Merupakan himpunan mahasiswa Program Studi Teknik Mekatronika. Anggota adalah  seluruh mahasiswa-mahasiswi dari jurusan Teknik Mekatronika. Himatron merupakan suatu organisasi yang dapat menampung inspirasi dan inspirasi mahasiswanya untuk suatu kemajuan dan sekaligus melatih mahasiswa-mahasiswa agar memiliki jiwa kepemimpinan, kebersamaan, serta melatih kedisiplinan. HIMA ini sangat menjunjung tinggi kebersamaan dan solidaritas. </p><br>
+
             <p><strong>VISI : </strong></p>
-            <p>Diakui sebagai program studi unggulan di bidang Teknik Komputer dan Teknologi Informasi yang dapat bersaing secara global.</p>
+            <p>-</p>
 
             <p><strong>MISI :</strong></p>
-            <p>1. Menyelenggarakan Sistem Pendidikan Profesional di bidang Teknik Komputer dan Teknologi Informasi yang Menghasilkan Sumber Daya Manusia, Barang (software dan hardware) dan Jasa (konsultasi ) yang berkualitas.</p>
-            <p>2. Menghasilkan lulusan yang profesional/terampil dan ahli di bidang Teknik Komputer dan Teknologi Informasi, berpikir terbuka (open minded) serta siap bersaing di pasar global berdasarkan kompetensi dunia Industri pada tingkat Nasional maupun Internasional dengan menyediakan sebuah lingkungan belajar yang baik bagi mahasiswa.</p>
-            <p>3. Ikut berperan aktif dalam pengembangan asosiasi profesi di bidang komputer dan teknologi informasi yang menunjang kelancaran hubungan institusional dengan masyarakat industri. Mengembangkan dan menerapkan nilai-nilai etika, moral agama dan moral akademis.</p>
-            <p>4. Mengembangkan Riset terapan yang terkait dengan bidang komputer dan Teknologi Informasi untuk melayani kebutuhan industri yang meliputi kebutuhan sumber daya manusia, konsultasi teknis dan penelitian.</p>
-                    </div>
+            <p>-</p>
+            <br/>
+
+<!--             <p> HIMIKA memiliki beragam kegiatan positif diantaranya adalah: </p>
+            <p> > PRO ( Pekanbaru Robotic Olimpiad ) merupakan salah satu kegiatan besar HIMIKA dalam bidang riset dan teknologi yaitu perlombaan robotika yang melibatkan siswa/i tingkatan SD, SMP, dan SMA/SMK se-Riau. </p>
+            <p> > LSE ( Lomba Seni Elektronika ) merupakan perlombaan dalam bidang seni yang menuntut kreatifitas mahasiswa Teknik Elektronika dalam pemanfaatan barang bekas menjadi barang yang berguna dan memiliki sentuhan elektronika.</p>
+            <p> > Pelatihan Robot Lego merupakan salah satu kegiatan HIMIKA dalam bidang pengabdian masyarakat dengan sasaran siswa/i Sekolah Dasar untuk meningkatkan minat dan bakat mereka dalam bidang teknologi khususnya robotika.</p> -->
+          </div>
         </div>
       </div>
       
@@ -172,4 +173,3 @@
   <script src="assets/js/custom.js"></script>
 
 </body>
-</html>
