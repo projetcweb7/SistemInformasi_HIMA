@@ -126,6 +126,11 @@ Perubahan sistem kampus dari Akademi menjadi Politeknik merupakan salah satu hal
           <div class="roles">
             <h5><strong>AET</strong></h5>
           </div>
+          <div class="span3">
+          <img src="assets/img/dummies/Aet.jpg" alt="" class="img-polaroid" />
+          <div class="roles">
+            <h5><strong>AET</strong></h5>
+          </div>
         </div>
       </div>
     </div>
