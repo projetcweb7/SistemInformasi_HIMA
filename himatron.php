@@ -78,12 +78,12 @@
           <div class="sub-heading">
             <p>HIMATRON (Himpunan Mahasiswa Mekatronika) Politeknik Caltex Riau Merupakan himpunan mahasiswa Program Studi Teknik Mekatronika. Anggota adalah  seluruh mahasiswa-mahasiswi dari jurusan Teknik Mekatronika. Himatron merupakan suatu organisasi yang dapat menampung inspirasi dan inspirasi mahasiswanya untuk suatu kemajuan dan sekaligus melatih mahasiswa-mahasiswa agar memiliki jiwa kepemimpinan, kebersamaan, serta melatih kedisiplinan. HIMA ini sangat menjunjung tinggi kebersamaan dan solidaritas. </p><br>
 
-            <p><strong>VISI : </strong></p>
+<!--             <p><strong>VISI : </strong></p>
             <p>-</p>
 
             <p><strong>MISI :</strong></p>
             <p>-</p>
-            <br/>
+            <br/> -->
 
 <!--             <p> HIMIKA memiliki beragam kegiatan positif diantaranya adalah: </p>
             <p> > PRO ( Pekanbaru Robotic Olimpiad ) merupakan salah satu kegiatan besar HIMIKA dalam bidang riset dan teknologi yaitu perlombaan robotika yang melibatkan siswa/i tingkatan SD, SMP, dan SMA/SMK se-Riau. </p>
