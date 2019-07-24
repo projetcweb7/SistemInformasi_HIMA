@@ -72,7 +72,7 @@
       <div class="row">
         <div class="span12">
           <div class="heading">
-            <img src="assets/img/dummies/Aet.jpg" height="100" width="100">
+            <img src="assets/img/dummies/himatel.jpg" height="100" width="100">
             <h3><span>HIMATEL</span></h3>
           </div>
           <div class="sub-heading">
