@@ -132,19 +132,19 @@ Perubahan sistem kampus dari Akademi menjadi Politeknik merupakan salah satu hal
         <!-- Bawah -->
          <div class="row">
         <div class="span3">
-          <img src="assets/img/dummies/itsa1.jpg" width="350px" height="350px" alt="" class="img-polaroid" />
+          <img src="assets/img/dummies/asa.jpg" width="350px" height="350px" alt="" class="img-polaroid" />
           <div class="roles">
             <h5><strong>Himika</strong></h5>
           </div>
         </div>
         <div class="span3">
-          <img src="assets/img/dummies/asa.jpg"  width="400px" height="400px" alt="" class="img-polaroid" />
+          <img src="assets/img/dummies/himatel.jpg"  width="400px" height="400px" alt="" class="img-polaroid" />
           <div class="roles">
             <h5><strong>Himatel</strong></h5>
           </div>
         </div>
         <div class="span3">
-          <img src="assets/img/dummies/himatel.jpg" height="400px" alt="" class="img-polaroid" />
+          <img src="assets/img/dummies/himaksii.jpg" height="400px" alt="" class="img-polaroid" />
           <div class="roles">
             <h5><strong>Himaksi</strong></h5>
           </div>
