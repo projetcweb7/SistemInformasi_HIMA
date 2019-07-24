@@ -44,7 +44,7 @@
                 <li><a href="home.php" class="external">Beranda</a></li>
                 <li><a href="tentang.php" class="external">Tentang</a></li>
                 <li class="dropdown current">
-                  <a href="#">Himpunan<i class="icon-angle-down"></i></a>
+                  <a href="#">H impunan<i class="icon-angle-down"></i></a>
                   <ul class="dropdown-menu">
                     <li><a href="itsa.php" class="external">ITSA</a></li>
                     <li><a href="himasistifo.php" class="external">Himasistifo</a></li>
@@ -72,7 +72,7 @@
       <div class="row">
         <div class="span12">
           <div class="heading">
-            <img src="assets/img/dummies/asa.jpg" height="100" width="100">
+            <img src="assets/img/dummies/himatrone.jpeg" height="100" width="100">
             <h3><span>Himatron</span></h3>
           </div>
           <div class="sub-heading">
