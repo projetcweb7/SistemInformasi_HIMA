@@ -99,14 +99,14 @@
         <div class="span3">
           <img src="assets/img/dummies/prop.jpg"  width="400px" height="400px" alt="" class="img-polaroid" />
           <div class="roles">
-            <h4>Andrey Lahnan</h4>
+            <h4>Rahmat Jumaril</h4>
             <h5><strong>Gubernur ITSA</strong></h5>
           </div>
         </div>
         <div class="span3">
           <img src="assets/img/dummies/fikri1.jpg" height="400px" alt="" class="img-polaroid" />
           <div class="roles">
-            <h4>Fikri Ramadhan</h4>
+            <h4>Shiddiq Prasetya</h4>
             <h5><strong>Wakil Gubernur ITSA</strong></h5>
             
           </div>
@@ -171,3 +171,4 @@
   <script src="assets/js/custom.js"></script>
 
 </body>
+</html>
