@@ -33,7 +33,6 @@
 </head>
 
 <body>
-  <audio src="assets/img/ab.mp3" autoplay="autoplay" hidden="hidden" controls="loop"></audio>
   <header>
     <!-- start top -->
     <div id="topnav" class="navbar navbar-fixed-top default">
