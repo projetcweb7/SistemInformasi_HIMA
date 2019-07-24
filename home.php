@@ -150,7 +150,7 @@ Perubahan sistem kampus dari Akademi menjadi Politeknik merupakan salah satu hal
           </div>
         </div>
         <div class="span3">
-          <img src="assets/img/dummies/himatrone.jpg" alt="" class="img-polaroid" />
+          <img src="assets/img/dummies/tron.jpg" alt="" class="img-polaroid" />
           <div class="roles">
             <h5><strong>Himatron</strong></h5>
           </div>
