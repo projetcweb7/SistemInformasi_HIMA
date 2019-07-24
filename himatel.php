@@ -52,6 +52,8 @@
                     <li><a href="himakom.php" class="external">Himakom</a></li>
                     <li><a href="himika.php" class="external">Himika</a></li>
                     <li><a href="aet.php" class="external">AET</a></li>
+                    <li><a href="himatel.php" class="external">Himatel</a></li>
+                    <li><a href="himaksi.php" class="external">Himaksi</a></li>
                   </ul>
                 </li>
               </ul>
@@ -99,14 +101,14 @@
           <img src="assets/img/dummies/prop.jpg"  width="400px" height="400px" alt="" class="img-polaroid" />
           <div class="roles">
             <h4>Andrey Lahnan</h4>
-            <h5><strong>Gubernur ITSA</strong></h5>
+            <h5><strong>Gubernur HIMATEL</strong></h5>
           </div>
         </div>
         <div class="span3">
           <img src="assets/img/dummies/fikri1.jpg" height="400px" alt="" class="img-polaroid" />
           <div class="roles">
             <h4>Fikri Ramadhan</h4>
-            <h5><strong>Wakil Gubernur ITSA</strong></h5>
+            <h5><strong>Wakil Gubernur HIMATEL</strong></h5>
             
           </div>
         </div>
