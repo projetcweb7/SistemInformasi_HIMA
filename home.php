@@ -127,7 +127,6 @@ Perubahan sistem kampus dari Akademi menjadi Politeknik merupakan salah satu hal
           <div class="roles">
             <h5><strong>AET</strong></h5>
           </div>
-        </div>
         <!-- Bawah -->
          <div class="row">
         <div class="span3">
