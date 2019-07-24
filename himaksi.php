@@ -54,6 +54,8 @@
                     <li><a href="aet.php" class="external">AET</a></li>
                     <li><a href="himatel.php" class="external">Himatel</a></li>
                     <li><a href="himaksi.php" class="external">Himaksi</a></li>
+                    <li><a href="himatron.php" class="external">Himatron</a></li>
+
                   </ul>
                 </li>
               </ul>
@@ -99,14 +101,14 @@
         <div class="span3">
           <img src="assets/img/dummies/prop.jpg"  width="400px" height="400px" alt="" class="img-polaroid" />
           <div class="roles">
-            <h4>Rio Arvindo</h4>
+            <h4>Janu Raya</h4>
             <h5><strong>Gubernur HIMASISTIFO</strong></h5>
           </div>
         </div>
         <div class="span3">
           <img src="assets/img/dummies/fikri1.jpg" height="400px" alt="" class="img-polaroid" />
           <div class="roles">
-            <h4>Abi Mahruf</h4>
+            <h4>Rado Marganda Sirait</h4>
             <h5><strong>Wakil Gubernur HIMASISTIFO</strong></h5>
             
           </div>
