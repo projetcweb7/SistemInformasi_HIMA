@@ -10,5 +10,5 @@ Nama-nama Kelompok :
 Pembagian Tugas :
 1. Azmi : home.php, tentang.php, itsa.php, himaksi.php
 2. Atikah : himasistifo.php, aet.php, himatel.php
-3. Jean : himika.php, himakom.php, indeks.php
+3. Jean : himika.php, himakom.php, indeks.php, himatron.php
 
