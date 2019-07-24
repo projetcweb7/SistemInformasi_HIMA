@@ -102,14 +102,14 @@
           </div>
         </div>
         <div class="span3">
-          <img src="assets/img/dummies/prop.jpg"  width="400px" height="400px" alt="" class="img-polaroid" />
+          <img src="assets/img/dummies/himikaG.png"  width="400px" height="400px" alt="" class="img-polaroid" />
           <div class="roles">
-            <h4>Weldi</h4>
+            <h4>Waldi</h4>
             <h5><strong>Gubernur HIMIKA</strong></h5>
           </div>
         </div>
         <div class="span3">
-          <img src="assets/img/dummies/fikri1.jpg" height="400px" alt="" class="img-polaroid" />
+          <img src="assets/img/dummies/himikaWG.png" height="400px" alt="" class="img-polaroid" />
           <div class="roles">
             <h4>Lutfi</h4>
             <h5><strong>Wakil Gubernur HIMIKA</strong></h5>
