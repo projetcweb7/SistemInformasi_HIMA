@@ -44,7 +44,7 @@
                 <li><a href="home.php" class="external">Beranda</a></li>
                 <li><a href="tentang.php" class="external">Tentang</a></li>
                 <li class="dropdown current">
-                  <a href="#">H impunan<i class="icon-angle-down"></i></a>
+                  <a href="#">Himpunan<i class="icon-angle-down"></i></a>
                   <ul class="dropdown-menu">
                     <li><a href="itsa.php" class="external">ITSA</a></li>
                     <li><a href="himasistifo.php" class="external">Himasistifo</a></li>
