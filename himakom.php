@@ -1,10 +1,79 @@
-<!DOCTYPE html>
-<html>
+<!doctype html>
+<html lang="en">
+
 <head>
-	<title></title>
+  <meta charset="utf-8">
+  <title>Sistem Informasi Himpunan Mahasiswa</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="" />
+  <meta name="author" content="" />
+  <!-- styles -->
+  <link href="assets/css/bootstrap.css" rel="stylesheet" />
+  <link href="assets/css/bootstrap-responsive.css" rel="stylesheet" />
+  <link href="assets/css/prettyPhoto.css" rel="stylesheet" />
+  <link href="assets/css/animate.css" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css?family=Noto+Serif:400,700,400italic|Roboto+Condensed:400,300,700" rel="stylesheet" />
+
+  <link href="assets/css/style.css" rel="stylesheet" />
+  <link href="assets/color/default.css" rel="stylesheet" />
+
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="ico/apple-touch-icon-144-precomposed.png" />
+  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="ico/apple-touch-icon-114-precomposed.png" />
+  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="ico/apple-touch-icon-72-precomposed.png" />
+  <link rel="apple-touch-icon-precomposed" href="ico/apple-touch-icon-57-precomposed.png" />
+  <link rel="shortcut icon" href="ico/favicon.ico" />
+
+  <!-- =======================================================
+    Theme Name: Vesperr
+    Theme URL: https://bootstrapmade.com/vesperr-free-bootstrap-template/
+    Author: BootstrapMade.com
+    Author URL: https://bootstrapmade.com
+  ======================================================= -->
 </head>
-<body>
-	 		<p>merupakan himpunan mahasiswa yang beranggotakan mahasiswa aktif dan alumni yang berasal dari Program Studi Teknik Komputer. HIMAKOM dibentuk untuk membantu setiap anggotanya dalam mengatasi persoalan edukasi dan sosial diluar maupun di dalam kampus. </p><br>
+ <body>
+  <header>
+    <div id="topnav" class="navbar navbar-fixed-top default">
+      <div class="navbar-inner">
+        <div class="container">
+          <div class="logo">
+        <img src="assets/img/pcr1.png" height="100px" width="100px" alt="" />
+        </a>
+          </div>
+          <div class="navigation">
+            <nav>
+              <ul class="nav pull-right">
+                <li><a href="home.php" class="external">Beranda</a></li>
+                <li><a href="tentang.php" class="external">Tentang</a></li>
+                <li class="dropdown current">
+                  <a href="#">Himpunan<i class="icon-angle-down"></i></a>
+                  <ul class="dropdown-menu">
+                    <li><a href="itsa.php" class="external">ITSA</a></li>
+                    <li><a href="himasistifo.php" class="external">Himasistifo</a></li>
+                    <li><a href="himakom.php" class="external">Himakom</a></li>
+                    <li><a href="himika.php" class="external">Himika</a></li>
+                    <li><a href="aet.php" class="external">AET</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </nav>
+          </div>
+           <!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
+    <!-- end top -->
+  </header>
+
+            <!-- Section about -->
+  <section id="about" class="section">
+    <div class="container">
+      <div class="row">
+        <div class="span12">
+          <div class="heading">
+            <img src="assets/img/dummies/himkom.jpg" height="100" width="100">
+            <h3><span>Himakom</span></h3>
+          </div>
+          <div class="sub-heading">	 		<p>merupakan himpunan mahasiswa yang beranggotakan mahasiswa aktif dan alumni yang berasal dari Program Studi Teknik Komputer. HIMAKOM dibentuk untuk membantu setiap anggotanya dalam mengatasi persoalan edukasi dan sosial diluar maupun di dalam kampus. </p><br>
             <p> <strong>SEJARAH : </strong></p>
             <p>Himpunan mahasiswa Program Studi Teknik Komputer ini berdiri Pada Tahun 2001 yang dibentuk oleh mahasiswa Teknik Komputer.</p>
             <p><strong>VISI : </strong></p>
