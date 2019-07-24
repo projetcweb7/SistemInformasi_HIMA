@@ -134,28 +134,27 @@ Perubahan sistem kampus dari Akademi menjadi Politeknik merupakan salah satu hal
         <div class="span3">
           <img src="assets/img/dummies/itsa1.jpg" width="350px" height="350px" alt="" class="img-polaroid" />
           <div class="roles">
-            <h5><strong>ITSA</strong></h5>
+            <h5><strong>Himika</strong></h5>
           </div>
         </div>
         <div class="span3">
-          <img src="assets/img/dummies/sis3.jpg"  width="400px" height="400px" alt="" class="img-polaroid" />
+          <img src="assets/img/dummies/asa.jpg"  width="400px" height="400px" alt="" class="img-polaroid" />
           <div class="roles">
-            <h5><strong>Hima Sistifo</strong></h5>
+            <h5><strong>Himatel</strong></h5>
           </div>
         </div>
         <div class="span3">
-          <img src="assets/img/dummies/himkom.jpg" height="400px" alt="" class="img-polaroid" />
+          <img src="assets/img/dummies/himatel.jpg" height="400px" alt="" class="img-polaroid" />
           <div class="roles">
-            <h5><strong>Himakom</strong></h5>
+            <h5><strong>Himaksi</strong></h5>
           </div>
         </div>
         <div class="span3">
-          <img src="assets/img/dummies/Aet.jpg" alt="" class="img-polaroid" />
+          <img src="assets/img/dummies/himatrone.jpg" alt="" class="img-polaroid" />
           <div class="roles">
-            <h5><strong>AET</strong></h5>
+            <h5><strong>Himatron</strong></h5>
           </div>
         </div>
-      </div>
     </div>
   </section>
   <!-- end section about -->
