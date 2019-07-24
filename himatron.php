@@ -51,6 +51,8 @@
                     <li><a href="himakom.php" class="external">Himakom</a></li>
                     <li><a href="himika.php" class="external">Himika</a></li>
                     <li><a href="aet.php" class="external">AET</a></li>
+                    <li><a href="himatel.php" class="external">Himatel</a></li>
+                    <li><a href="himaksi.php" class="external">Himaksi</a></li>
                     <li><a href="himatron.php" class="external">Himatron</a></li>
                   </ul>
                 </li>
@@ -71,7 +73,7 @@
         <div class="span12">
           <div class="heading">
             <img src="assets/img/dummies/asa.jpg" height="100" width="100">
-            <h3><span>Himika</span></h3>
+            <h3><span>Himatron</span></h3>
           </div>
           <div class="sub-heading">
             <p>HIMATRON (Himpunan Mahasiswa Mekatronika) Politeknik Caltex Riau Merupakan himpunan mahasiswa Program Studi Teknik Mekatronika. Anggota adalah  seluruh mahasiswa-mahasiswi dari jurusan Teknik Mekatronika. Himatron merupakan suatu organisasi yang dapat menampung inspirasi dan inspirasi mahasiswanya untuk suatu kemajuan dan sekaligus melatih mahasiswa-mahasiswa agar memiliki jiwa kepemimpinan, kebersamaan, serta melatih kedisiplinan. HIMA ini sangat menjunjung tinggi kebersamaan dan solidaritas. </p><br>
