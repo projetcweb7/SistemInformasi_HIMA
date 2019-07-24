@@ -51,6 +51,9 @@
                     <li><a href="himakom.php" class="external">Himakom</a></li>
                     <li><a href="himika.php" class="external">Himika</a></li>
                     <li><a href="aet.php" class="external">AET</a></li>
+                    <li><a href="himatel.php" class="external">Himatel</a></li>
+                    <li><a href="himaksi.php" class="external">Himaksi</a></li>
+                    <li><a href="himatron.php" class="external">Himatron</a></li>
                   </ul>
                 </li>
               </ul>
