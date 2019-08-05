@@ -93,6 +93,8 @@
             <p>2. Menciptakan Kaderisasi yang berkualitas dan berkelanjutan.</p>
             <p>3. Menjadi lembaga yang mewadahi Mahasiswa HIMASISTIFO untuk menyalurkan potensi diri.</p>
             <p>4. Melanjutkan dan Meningkatkan kinerja periode Kebinet sebelumnya.</p>
+            <br>
+            <h1>Ini file yang di Edit</h1>
           </div>
         </div>
       </div>
